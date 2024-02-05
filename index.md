@@ -4,3 +4,5 @@
 #### This is an `<h4>` header
 ##### This is an `<h5>` header
 ###### This is an `<h6>` header, which is the smallest
+
+![Dragon](https://thumbs.dreamstime.com/z/colorful-oriental-dragon-includes-clipping-path-188733.jpg?w=576)
