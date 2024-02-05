@@ -11,3 +11,8 @@
 $ git init
 Initialized empty Git repository in /hongbo-wei/skills/Projects/recipe-repository/.git/
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] have a girlfriend
